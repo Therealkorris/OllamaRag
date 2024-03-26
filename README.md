@@ -1,4 +1,4 @@
-a Streamlit application that allows users to ask questions about the content of an uploaded PDF document using either text or speech input.
+Streamlit application that allows users to ask questions about the content of an uploaded PDF document using either text or speech input.
 
 Features:
 - Upload a PDF document
